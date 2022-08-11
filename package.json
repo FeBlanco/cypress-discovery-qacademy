@@ -1,0 +1,19 @@
+{
+  "name": "burger-eats",
+  "version": "1.0.0",
+  "description": "Projeto de testes de aceitação do app Burgereats",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "Felipe Blanco",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^7.4.0",
+    "chance": "^1.1.8",
+    "cypress": "^9.7.0",
+    "cypress-file-upload": "^5.0.8",
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}
