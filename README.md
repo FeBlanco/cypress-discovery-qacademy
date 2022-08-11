@@ -7,3 +7,5 @@
 - [Node.js] - plataforma de desenvolvimento
 - [Javascript] - linguagem de programação universal
 - [Cypress] - framework de testes automatizados
+
+![signup spec js](https://user-images.githubusercontent.com/43914674/184224403-61fa0d55-d9f3-4c14-9826-08c687554dae.gif)
